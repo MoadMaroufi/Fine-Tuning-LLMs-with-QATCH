@@ -1,6 +1,6 @@
 # Fine-Tuning-LLMs-with-QATCH
 ### What project is about:
-This is a semester project at EURECOM Spring, conducted under the supervision of Professor Paolo Pappotti (EURECOM), Simone Papicchio PhD (EURECOM, Politecnico di Torino), and Professor Luca Cagliero (Politecnico di Torino).
+This is a semester project at EURECOM Spring, conducted under the supervision of Professor Paolo Papotti (EURECOM), Simone Papicchio PhD (EURECOM, Politecnico di Torino), and Professor Luca Cagliero (Politecnico di Torino).
 
 It is focused on fine-tuning language models for question answering on proprietary data, using the [QATCH](https://github.com/spapicchio/QATCH) toolbox developed by Simone Papicchio, PhD, and directly builds up on this work.
 
@@ -32,5 +32,5 @@ A tutorial on this I found useful:
 
 
 ### Acknowledgment
-I would like to thank Paolo Pappotti (EURECOM), Simone Papicchio, PhD (EURECOM, Politecnico di Torino), and Professor Luca Cagliero (Politecnico di Torino) for their supervision on this project. A special thanks to Professor Paolo Pappotti for providing such a valuable learning opportunity and to Simone Papicchio, PhD, for helping me push through with regular meetings every week, offering valuable advice and insights.
+I would like to thank Paolo Papotti (EURECOM), Simone Papicchio, PhD (EURECOM, Politecnico di Torino), and Professor Luca Cagliero (Politecnico di Torino) for their supervision on this project. A special thanks to Professor Paolo Pappotti for providing such a valuable learning opportunity and to Simone Papicchio, PhD, for helping me push through with regular meetings every week, offering valuable advice and insights.
 
